@@ -1,2 +1,2 @@
 # BIOEN437
-Computational Systems Biology
+Class Homework and Projects from Computational Systems Biology
